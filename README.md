@@ -35,6 +35,7 @@ npm start
 
 ```
 ### **4. Directory Structure**
+```bash
 /growthx-assignment
 ├── /node_modules    # Installed dependencies
 ├── /routes          # API route definitions
@@ -45,5 +46,6 @@ npm start
 ├── package.json     # Project metadata and dependencies
 ├── .env.example     # Example environment variables (as of now i am directly used hard coded values)
 └── README.md        # Documentation
+```
 
 
